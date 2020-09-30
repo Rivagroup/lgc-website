@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<url>
+  <loc>https://lasergame-chemnitz.de/</loc>
+  <lastmod>2020-05-26T17:39:34+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://lasergame-chemnitz.de/oeffnungszeiten</loc>
+  <lastmod>2020-05-26T17:39:34+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://lasergame-chemnitz.de/preise</loc>
+  <lastmod>2020-05-26T17:39:34+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://lasergame-chemnitz.de/angebote</loc>
+  <lastmod>2020-05-26T17:39:34+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://lasergame-chemnitz.de/angebote/partyraeume</loc>
+  <lastmod>2020-05-26T17:39:34+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://lasergame-chemnitz.de/spielmodi</loc>
+  <lastmod>2020-05-26T17:39:34+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://lasergame-chemnitz.de/spielmodi/solo</loc>
+  <lastmod>2020-05-26T17:39:34+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://lasergame-chemnitz.de/spielmodi/dark</loc>
+  <lastmod>2020-05-26T17:39:34+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://lasergame-chemnitz.de/spielmodi/team</loc>
+  <lastmod>2020-05-26T17:39:34+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://lasergame-chemnitz.de/spielmodi/teamswitch</loc>
+  <lastmod>2020-05-26T17:39:34+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://lasergame-chemnitz.de/spielmodi/zombie</loc>
+  <lastmod>2020-05-26T17:39:34+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://lasergame-chemnitz.de/spielmodi/lastmanstanding</loc>
+  <lastmod>2020-05-26T17:39:34+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://lasergame-chemnitz.de/buchung</loc>
+  <lastmod>2020-05-26T17:39:34+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://lasergame-chemnitz.de/buchung/allyoucantag</loc>
+  <lastmod>2020-05-26T17:39:34+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://lasergame-chemnitz.de/agb</loc>
+  <lastmod>2020-05-26T17:39:34+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://lasergame-chemnitz.de/datenschutz</loc>
+  <lastmod>2020-05-26T17:39:34+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://lasergame-chemnitz.de/impressum</loc>
+  <lastmod>2020-05-26T17:39:34+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+</urlset>
