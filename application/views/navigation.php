@@ -16,15 +16,15 @@
                     <a class="nav-link" href="<?= base_url('preise'); ?>">Preise</a>
                 </li>
                 <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle disabled" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Angebote</a>
+                    <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Angebote</a>
                     <div class="dropdown-menu">
-                        <a class="dropdown-item" href="<?= base_url('angebote'); ?>">Übersicht</a>
+                        <a class="dropdown-item disabled" href="<?= base_url('angebote'); ?>">Übersicht</a>
                         <div class="dropdown-divider"></div>
                         <a class="dropdown-item disabled" href="<?= base_url('angebote/allyoucantag'); ?>">All You Can Tag</a>
                         <div class="dropdown-divider"></div>
-                        <a class="dropdown-item" href="<?= base_url('angebote/kindergeburtstag'); ?>">Kindergeburtstag</a>
+                        <a class="dropdown-item" href="<?= base_url('kindergeburtstag'); ?>">Kindergeburtstag</a>
                         <a class="dropdown-item disabled" href="<?= base_url('angebote/junggesellenabschied'); ?>">Junggesellenabschied</a>
-                        <a class="dropdown-item" href="<?= base_url('angebote/partyraeume'); ?>">Partyräume</a>
+                        <a class="dropdown-item disabled" href="<?= base_url('angebote/partyraeume'); ?>">Partyräume</a>
                     </div>
                 </li>
                 <li class="nav-item dropdown">

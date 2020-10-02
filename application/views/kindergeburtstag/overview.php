@@ -6,17 +6,17 @@
             </div>
             <div class="card-body">
                 <div class="card-text">
-                    <p>für 5 Teilnehmer ab 12 Jahre</p>
+                    <p>für 5 Teilnehmer ab 1,40m</p>
                     <ul class="list-group">
-                        <li class="list-group-item list-group-item-info"><small><i class="fas fa-check"></i> 1 Escape-Room Spiel eurer Wahl (Viruslabor oder Prison-Break)</small></li>
+                        <li class="list-group-item list-group-item-info"><small><i class="fas fa-check"></i> 3 Spiele LaserGame</small></li>
                         <li class="list-group-item list-group-item-info"><small><i class="fas fa-check"></i> 5 x 0,4 l kühles Soft-Getränk</small></li>
                         <li class="list-group-item list-group-item-info"><small><i class="fas fa-check"></i> bunt geschmückten Geburtstags-Tisch</small></li>
-                        <li class="list-group-item list-group-item-info"><small><i class="fas fa-check"></i> jeder weitere Party-Gast nur <b>21,50€</b></small></li>
+                        <li class="list-group-item list-group-item-info"><small><i class="fas fa-check"></i> jeder weitere Party-Gast nur <b>19,50€</b></small></li>
                     </ul>
                 </div>
             </div>
             <div class="card-footer">
-                <p class="display-3 text-center"><b>110 €</b></p>
+                <p class="display-3 text-center"><b>100 €</b></p>
                 <a class="btn btn-sm btn-block btn-info" href="<?= base_url('kindergeburtstag/basic'); ?>"><i class="fas fa-info"></i> weitere Informationen</a>
                 <a class="btn btn-lg btn-block btn-primary" href="tel:+4937133423340"><i class="fas fa-phone"></i> jetzt Buchen</a>
             </div>
@@ -27,16 +27,16 @@
             </div>
             <div class="card-body">
                 <div class="card-text">
-                    <p>für 5 Teilnehmer ab 12 Jahre</p>
+                    <p>für 5 Teilnehmer ab 1,40m</p>
                     <ul class="list-group">
                         <li class="list-group-item list-group-item-warning"><small><i class="fas fa-check"></i> alle Leistungen aus Basic</small></li>
                         <li class="list-group-item list-group-item-warning"><small><i class="fas fa-check"></i> große leckere Party - Food - Platte für alle</small></li>
-                        <li class="list-group-item list-group-item-warning"><small><i class="fas fa-check"></i> jeder weitere Party-Gast nur <b>26,50€</b></small></li>
+                        <li class="list-group-item list-group-item-warning"><small><i class="fas fa-check"></i> jeder weitere Party-Gast nur <b>24,50€</b></small></li>
                     </ul>
                 </div>
             </div>
             <div class="card-footer">
-                <p class="display-3 text-center"><b>135 €</b></p>
+                <p class="display-3 text-center"><b>125 €</b></p>
                 <a class="btn btn-sm btn-block btn-warning" href="<?= base_url('kindergeburtstag/maxi'); ?>"><i class="fas fa-info"></i> weitere Informationen</a>
                 <a class="btn btn-lg btn-block btn-primary" href="tel:+4937133423340"><i class="fas fa-phone"></i> jetzt Buchen</a>
             </div>
@@ -47,17 +47,18 @@
             </div>
             <div class="card-body">
                 <div class="card-text">
-                    <p>für 5 Teilnehmer ab 12 Jahre</p>
+                    <p>für 5 Teilnehmer ab 1,40m</p>
                     <ul class="list-group">
                         <li class="list-group-item list-group-item-success"><small><i class="fas fa-check"></i> alle Leistungen aus Maxi</small></li>
                         <li class="list-group-item list-group-item-success"><small><i class="fas fa-check"></i> tolles Gruppenfoto der Geburtstagsgesellschaft für jeden Teilnehmer</small></li>
-                        <li class="list-group-item list-group-item-success"><small><i class="fas fa-check"></i> Urkunde und einen kleinen Eisbecher mit 2 Kugeln für jeden Teilnehmer</small></li>
-                        <li class="list-group-item list-group-item-success"><small><i class="fas fa-check"></i> jeder weitere Party-Gast nur <b>29,50€</b></small></li>
+                        <li class="list-group-item list-group-item-success"><small><i class="fas fa-check"></i> Auswertung der Spiele und eine Urkunde für den Gewinner</small></li>
+                        <li class="list-group-item list-group-item-success"><small><i class="fas fa-check"></i> einen kleinen Eisbecher mit 2 Kugeln für jeden Teilnehmer</small></li>
+                        <li class="list-group-item list-group-item-success"><small><i class="fas fa-check"></i> jeder weitere Party-Gast nur <b>27,50€</b></small></li>
                     </ul>
                 </div>
             </div>
             <div class="card-footer">
-                <p class="display-3 text-center"><b>150 €</b></p>
+                <p class="display-3 text-center"><b>140 €</b></p>
                 <a class="btn btn-sm btn-block btn-success" href="<?= base_url('kindergeburtstag/xxl'); ?>"><i class="fas fa-info"></i> weitere Informationen</a>
                 <a class="btn btn-lg btn-block btn-primary" href="tel:+4937133423340"><i class="fas fa-phone"></i> jetzt Buchen</a>
             </div>
