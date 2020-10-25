@@ -71,5 +71,5 @@
             <a href="https://spielcenter-chemnitz.de/kombi/#lasertag" target="_blank" class="btn btn-lg btn-block btn-primary" role="button">weitere Informationen</a>
         </div>
     </div>
-    <small class="muted">* Alle ausser Lasertag-Escaperoom-Kombi - nur 2 Spiele Lasertag inbegriffen.</small>
+    <small class="muted">*Lasertag-Escaperoom-Kombi-Paket beinhaltet nur 2 Spiele Lasertag</small>
 </div>
