@@ -140,3 +140,7 @@
         </div>
     </div>
 </div>
+<div class="text-muted">
+<small>* Ermäßigt sind Schüler, Studenten, AZUBIs, Schwerbehinderte und Rentner.</small><br>
+<small>** Kidscard ist bis zum vollendeten 15. Lebensjahr gültig.</small>
+</div>
