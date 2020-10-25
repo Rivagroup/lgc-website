@@ -67,7 +67,7 @@
     <div class="jumbotron jumbotron-fluid mt-4 rounded bg-danger text-light">
         <div class="container">
             <h1 class="display-4">KINDERGEBURTSTAG<br/>KOMBI-PAKETE</h1>
-            <p class="lead">3 Spiele Lasertag plus eine weitere Aktivität für 5 Kinder / Teilnehmer</p>
+            <p class="lead">2 Spiele Lasertag plus eine weitere Aktivität für 5 Kinder / Teilnehmer</p>
             <a href="https://spielcenter-chemnitz.de/kombi/#lasertag" target="_blank" class="btn btn-lg btn-block btn-primary" role="button">weitere Informationen</a>
         </div>
     </div>
