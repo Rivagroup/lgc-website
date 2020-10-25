@@ -19,7 +19,14 @@
                         </a>
                     </p>
                 </div>
-                <div class="col-md-8 col-sm-12"></div>
+                <div class="col-md-8 col-sm-12">
+                <div class="row text-center">
+                    <div class="col"><a href="https://spielcenter-chemnitz.de" target="_blank"><img class="img-fluid" src="<?= base_url('assets/x_promo/spielcenter_chemnitz_logo.svg') ?>" alt="Spielcenter Chemnitz"></a></div>
+                    <div class="col"><a href="https://bowling-chemnitz.de" target="_blank"><img class="img-fluid" src="<?= base_url('assets/x_promo/bowling_chemnitz_logo.svg') ?>" alt="Bowling Center Chemnitz"></a></div>
+                    <div class="col"><a href="https://escaperoom-chemnitz.de" target="_blank"><img class="img-fluid" src="<?= base_url('assets/x_promo/escaperoom_chemnitz_logo.svg') ?>" alt="Escaperoom / Exitgame Chemnitz"></a></div>
+                    <div class="col"><a href="https://minigolf-chemnitz.de" target="_blank"><img class="img-fluid" src="<?= base_url('assets/x_promo/minigolf_chemnitz_logo.svg') ?>" alt="Schwarzlicht Adventure Minigolf Chemnitz"></a></div>
+                </div>
+                </div>
                 <div class="col-md-2 col-sm-12">
                     <p>
                         <a class="btn btn-sm btn-block btn-primary" href="<?= base_url('agb'); ?>">

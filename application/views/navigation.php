@@ -60,5 +60,4 @@
                 </li>
             </ul>
         </div>
-        <?= $x_promotion ?>
     </nav>
