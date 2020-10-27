@@ -20,7 +20,7 @@
                     <div class="dropdown-menu">
                         <a class="dropdown-item" href="<?= base_url('angebote'); ?>">Übersicht</a>
                         <div class="dropdown-divider"></div>
-                        <a class="dropdown-item disabled" href="<?= base_url('angebote/allyoucantag'); ?>">All You Can Tag</a>
+                        <a class="dropdown-item" href="<?= base_url('angebote/allyoucantag'); ?>">All You Can Tag</a>
                         <div class="dropdown-divider"></div>
                         <a class="dropdown-item" href="<?= base_url('kindergeburtstag'); ?>">Kindergeburtstag</a>
                     </div>
