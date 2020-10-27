@@ -1,9 +1,3 @@
-<div class="jumbotron bg-primary text-white">
-    <h1 class="display-4">Preise</h1>
-    <!--p class="lead">This is a simple hero unit, a simple jumbotron-style component for calling extra attention to featured content or information.</p>
-            <hr class="my-4">
-            <p>It uses utility classes for typography and spacing to space content out within the larger container.</p-->
-</div>
 <div class="card-group">
     <div class="card shadow-sm text-white bg-info mb-3" style="width: auto;">
         <h4 class="card-header text-uppercase"><i class="fas fa-users"></i> All you can tag</h4>
@@ -18,7 +12,8 @@
             </p>
         </div>
         <div class="card-footer d-flex flex-column">
-            <a href="<?=base_url("buchung/allyoucantag")?>" class="btn btn-info disabled mt-auto"><i class="far fa-calendar-plus"></i> Jetzt Buchen!</a>
+        <a class="btn btn-lg btn-block btn-primary" href="tel:+4937133423340"><i class="fas fa-phone"></i> telefonisch buchen</a>
+        <a class="btn btn-lg btn-block btn-primary disabled" href="<?= base_url('buchung/allyoucantag'); ?>"><i class="far fa-calendar-plus"></i> online buchen</a>
         </div>
     </div>
     <div class="card shadow-sm text-white bg-success mb-3" style="width: auto;">
@@ -77,7 +72,8 @@
             </div>
         </div>
         <div class="card-footer d-flex flex-column">
-            <a href="<?=base_url("buchung")?>" class="btn btn-success mt-auto"><i class="far fa-calendar-plus"></i> Jetzt Buchen!</a>
+        <a class="btn btn-lg btn-block btn-primary" href="tel:+4937133423340"><i class="fas fa-phone"></i> telefonisch buchen</a>
+        <a class="btn btn-lg btn-block btn-primary" href="<?= base_url('buchung'); ?>"><i class="far fa-calendar-plus"></i> online buchen</a>
         </div>
     </div>
     <div class="card shadow-sm text-white bg-danger mb-3" style="width: auto;">
@@ -136,7 +132,8 @@
             </div>
         </div>
         <div class="card-footer d-flex flex-column">
-            <a href="<?=base_url("buchung")?>" class="btn btn-danger mt-auto"><i class="far fa-calendar-plus"></i> Jetzt Buchen!</a>
+        <a class="btn btn-lg btn-block btn-primary" href="tel:+4937133423340"><i class="fas fa-phone"></i> telefonisch buchen</a>
+        <a class="btn btn-lg btn-block btn-primary" href="<?= base_url('buchung'); ?>"><i class="far fa-calendar-plus"></i> online buchen</a>
         </div>
     </div>
 </div>

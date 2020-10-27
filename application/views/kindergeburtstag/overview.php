@@ -18,7 +18,8 @@
             <div class="card-footer">
                 <p class="display-3 text-center"><b>100 €</b></p>
                 <a class="btn btn-sm btn-block btn-info" href="<?= base_url('kindergeburtstag/basic'); ?>"><i class="fas fa-info"></i> weitere Informationen</a>
-                <a class="btn btn-lg btn-block btn-primary" href="tel:+4937133423340"><i class="fas fa-phone"></i> jetzt Buchen</a>
+                <a class="btn btn-lg btn-block btn-primary" href="tel:+4937133423340"><i class="fas fa-phone"></i> telefonisch buchen</a>
+                <a class="btn btn-lg btn-block btn-primary disabled" href="<?= base_url('buchung/kindergeburtstagXXL'); ?>"><i class="far fa-calendar-plus"></i> online buchen</a>
             </div>
         </div>
         <div class="card bg-warning text-dark">
@@ -38,7 +39,8 @@
             <div class="card-footer">
                 <p class="display-3 text-center"><b>125 €</b></p>
                 <a class="btn btn-sm btn-block btn-warning" href="<?= base_url('kindergeburtstag/maxi'); ?>"><i class="fas fa-info"></i> weitere Informationen</a>
-                <a class="btn btn-lg btn-block btn-primary" href="tel:+4937133423340"><i class="fas fa-phone"></i> jetzt Buchen</a>
+                <a class="btn btn-lg btn-block btn-primary" href="tel:+4937133423340"><i class="fas fa-phone"></i> telefonisch buchen</a>
+                <a class="btn btn-lg btn-block btn-primary disabled" href="<?= base_url('buchung/kindergeburtstagXXL'); ?>"><i class="far fa-calendar-plus"></i> online buchen</a>
             </div>
         </div>
         <div class="card bg-success text-white">
@@ -60,13 +62,14 @@
             <div class="card-footer">
                 <p class="display-3 text-center"><b>140 €</b></p>
                 <a class="btn btn-sm btn-block btn-success" href="<?= base_url('kindergeburtstag/xxl'); ?>"><i class="fas fa-info"></i> weitere Informationen</a>
-                <a class="btn btn-lg btn-block btn-primary" href="tel:+4937133423340"><i class="fas fa-phone"></i> jetzt Buchen</a>
+                <a class="btn btn-lg btn-block btn-primary" href="tel:+4937133423340"><i class="fas fa-phone"></i> telefonisch buchen</a>
+                <a class="btn btn-lg btn-block btn-primary disabled" href="<?= base_url('buchung/kindergeburtstagXXL'); ?>"><i class="far fa-calendar-plus"></i> online buchen</a>
             </div>
         </div>
     </div>
     <div class="jumbotron jumbotron-fluid mt-4 rounded bg-danger text-light">
         <div class="container">
-            <h1 class="display-4">KINDERGEBURTSTAG<br/>KOMBI-PAKETE</h1>
+            <h2>KINDERGEBURTSTAG KOMBI-PAKETE</h2>
             <p class="lead">3* Spiele Lasertag plus eine weitere Aktivität für 5 Kinder / Teilnehmer</p>
             <a href="https://spielcenter-chemnitz.de/kombi/#lasertag" target="_blank" class="btn btn-lg btn-block btn-primary" role="button">weitere Informationen</a>
         </div>

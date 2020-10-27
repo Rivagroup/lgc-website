@@ -43,4 +43,11 @@ class Angebote extends MY_ContentController {
         $this->load->view('template', $data);
     }
 
+    public function allyoucantag() {
+		$data=$this->meta4all($this->meta);
+        $data['title'] .= ' - All You Can Tag';
+        $data['main_content'] = 'angebote/angebote_ayct';
+        $this->load->view('template', $data);
+    }
+
 }

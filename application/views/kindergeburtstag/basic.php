@@ -18,7 +18,9 @@
         <div class="card-footer">
             <p class="display-3 text-center"><b>100 €</b></p>
             <a class="btn btn-sm btn-block btn-info" href="<?= base_url('kindergeburtstag/'); ?>"><i class="far fa-arrow-alt-circle-left"></i> zurück zur Übersicht</a>
-            <a class="btn btn-lg btn-block btn-primary" href="tel:+4937133423340"><i class="fas fa-phone"></i> jetzt Buchen</a>
+                <a class="btn btn-lg btn-block btn-primary" href="tel:+4937133423340"><i class="fas fa-phone"></i> telefonisch buchen</a>
+                <a class="btn btn-lg btn-block btn-primary disabled" href="<?= base_url('buchung/kindergeburtstagXXL'); ?>"><i class="far fa-calendar-plus"></i> online buchen</a>
+                <a href="https://spielcenter-chemnitz.de/kombi/#lasertag" target="_blank" class="btn btn-lg btn-block btn-danger" role="button"><i class="fas fa-plus-square"></i> Kombi Pakete</a>
         </div>
     </div>
 </div>
