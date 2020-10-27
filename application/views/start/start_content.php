@@ -1,4 +1,5 @@
-<div class="card shadow-sm text-white bg-info mb-3" style="width: auto;">
+<a href ="https://spielcenter-chemnitz.de/silvester/" target="_blank"><img src="<?=base_url("assets/header/slider_silvester2020.png")?>" alt="Silvester 2020/21" class="img-fluid"></a>
+<div class="card shadow-sm text-white bg-info my-3" style="width: auto;">
     <h4 class="card-header text-uppercase"><i class="fas fa-users"></i> All you can tag</h4>
     <div class="card-body">
         <p class="card-text text-justify">
