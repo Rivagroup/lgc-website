@@ -1,7 +1,7 @@
 <a href ="https://spielcenter-chemnitz.de/silvester/" target="_blank"><img src="<?=base_url("assets/header/slider_silvester2020.png")?>" alt="Silvester 2020/21" class="img-fluid"></a>
 
 <div class="card shadow-sm text-white bg-info my-3" style="width: auto;">
-    <h4 class="card-header text-uppercase"><i class="fas fa-users"></i> "COVID-19 INFORMATION" Lasergame Chemnitz</h4>
+    <h4 class="card-header text-uppercase"><i class="fas fa-users"></i> COVID-19 INFORMATIONEN</h4>
     <div class="card-body">
         <div class="card-text text-justify text-white">           
            <h5>Aktuelle Statistik zum Infektions-Geschehen im Spielcenter-Chemnitz</h5>
