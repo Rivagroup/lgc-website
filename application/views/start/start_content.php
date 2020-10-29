@@ -43,7 +43,7 @@
     </div>
 </div>
 
-<div class="card shadow-sm text-white bg-danger mb-3" style="width: auto;">
+<div class="card shadow-sm text-white bg-info mb-3" style="width: auto;">
     <h4 class="card-header text-uppercase"><i class="fas fa-users"></i> All you can tag</h4>
     <div class="card-body">
         <p class="card-text text-justify">
