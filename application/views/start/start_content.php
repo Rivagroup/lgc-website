@@ -3,7 +3,7 @@
 <div class="card shadow-sm text-white bg-danger my-3" style="width: auto;">
     <img src="<?= base_url('assets/header/Corona.jpg'); ?>" class="card-img-top" alt="China-Virus">
     <div class="card-body">
-    <h4 class="card-title text-uppercase"><i class="fas fa-head-side-virus"></i> COVID-19 INFORMATIONEN</h4>
+    <h4 class="card-title text-uppercase"><i class="fas fa-viruses"></i> COVID-19 INFORMATIONEN</h4>
         <div class="card-text text-justify text-white">           
             <h5>Aktuelle Statistik zum Infektions-Geschehen im Spielcenter-Chemnitz</h5>
             <p class="small">seit Erklärung zur Pandemie am 11. März 2020 | Stand: 26.10.2020</p>
